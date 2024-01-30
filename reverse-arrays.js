@@ -5,11 +5,8 @@ function reverseArray(arr) {
 
 function reverseArrayInPlace(arr) {
   // Add code.
+
 }
-
-
-
-
 
 
 // tests 
