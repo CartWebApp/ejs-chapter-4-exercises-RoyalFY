@@ -5,6 +5,7 @@ function arrayToList(arr) {
 
 function listToArray(list, arr) {
   // Add code.
+arr = []
 
 }
 
